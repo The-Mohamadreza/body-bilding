@@ -178,8 +178,4 @@ Distributed under the **MIT License**. Feel free to use, modify, and build on to
 
 <br />
 
-**Crafted with 🖤 & 🥇 — IRONFORGE Studio**
-
-*Forge your limits.*
-
 </div>
